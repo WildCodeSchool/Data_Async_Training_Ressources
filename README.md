@@ -6,3 +6,7 @@ This space is dedicated to sharing additional resources such as projects, exerci
 These resources are meant to complement your training and help you reinforce the skills you've acquired.
 
 - Power Bi & SQL Program : Telco Churn
+
+## Contact
+
+If you have any questions, feel free to reach out to us
